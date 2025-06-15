@@ -22,9 +22,6 @@
 [submodule "package/luci-app-partexp"]
 	path = package/luci-app-partexp
 	url = https://github.com/sirpdboy/luci-app-partexp.git
-[submodule "package/luci-app-netdata"]
-	path = package/luci-app-netdata
-	url = https://github.com/sirpdboy/luci-app-netdata.git
 [submodule "package/luci-theme-design"]
 	path = package/luci-theme-design
 	url = https://github.com/MilesPoupart/luci-theme-design.git
