@@ -25,3 +25,9 @@
 [submodule "package/luci-theme-design"]
 	path = package/luci-theme-design
 	url = https://github.com/MilesPoupart/luci-theme-design.git
+[submodule "package/luci-app-netdata"]
+	path = package/luci-app-netdata
+	url = https://github.com/sirpdboy/luci-app-netdata.git
+[submodule "package/luci-app-netdata-sirpdboy"]
+	path = package/luci-app-netdata-sirpdboy
+	url = https://github.com/sirpdboy/luci-app-netdata.git
