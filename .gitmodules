@@ -1,0 +1,30 @@
+[submodule "package/luci-theme-argon"]
+	path = package/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "package/luci-app-argon-config"]
+	path = package/luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config.git
+[submodule "package/luci-app-log-viewer"]
+	path = package/luci-app-log-viewer
+	url = https://github.com/gSpotx2f/luci-app-log.git
+[submodule "package/luci-app-eqosplus"]
+	path = package/luci-app-eqosplus
+	url = https://github.com/sirpdboy/luci-app-eqosplus.git
+[submodule "package/luci-app-adguardhome"]
+	path = package/luci-app-adguardhome
+	url = https://github.com/rufengsuixing/luci-app-adguardhome.git
+[submodule "package/luci-app-netspeedtest"]
+	path = package/luci-app-netspeedtest
+	url = https://github.com/muink/luci-app-netspeedtest.git
+[submodule "package/OpenAppFilter"]
+	path = package/OpenAppFilter
+	url = https://github.com/destan19/OpenAppFilter.git
+[submodule "package/luci-app-partexp"]
+	path = package/luci-app-partexp
+	url = https://github.com/sirpdboy/luci-app-partexp.git
+[submodule "package/luci-app-netdata"]
+	path = package/luci-app-netdata
+	url = https://github.com/sirpdboy/luci-app-netdata.git
+[submodule "package/luci-theme-design"]
+	path = package/luci-theme-design
+	url = https://github.com/MilesPoupart/luci-theme-design.git
