@@ -31,3 +31,6 @@
 [submodule "package/luci-app-netdata-sirpdboy"]
 	path = package/luci-app-netdata-sirpdboy
 	url = https://github.com/sirpdboy/luci-app-netdata.git
+[submodule "package/qosmate"]
+	path = package/qosmate
+	url = https://github.com/hudra0/qosmate.git
