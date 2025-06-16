@@ -35,5 +35,5 @@
 	path = package/qosmate
 	url = https://github.com/hudra0/qosmate.git
 [submodule "package/luci-app-qosmate"]
-	path = package/luci-app-qosmate
+	path = package/luci-app-qoamate
 	url = https://github.com/hudra0/luci-app-qosmate.git
