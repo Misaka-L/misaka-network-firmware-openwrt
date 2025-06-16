@@ -32,10 +32,10 @@ jobs:
         run: ./scripts/feeds install -a
 
       - name: Download Source Code for dependencies
-        run: make -j $(($(nproc)+1)) download
+        run: make -j $(($(nproc)+1)) V=s download
 
       - name: Build
-        run: make -j $(($(nproc)+1))
+        run: make -j $(($(nproc)+1)) V=s
 
       - name: Upload Firmware Artifact
         uses: actions/upload-artifact@v4
@@ -43,7 +43,7 @@ jobs:
           name: Firmware
           path: ./bin/targets/
       
-      - name: Upload Firmware Artifact
+      - name: Upload Packages Artifact
         uses: actions/upload-artifact@v4
         with:
           name: Packages
