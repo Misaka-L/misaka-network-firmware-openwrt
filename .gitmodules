@@ -37,9 +37,3 @@
 [submodule "package/luci-app-qosmate"]
 	path = package/luci-app-qosmate
 	url = https://github.com/hudra0/luci-app-qosmate.git
-[submodule "package/passwall"]
-	path = package/passwall
-	url = https://github.com/xiaorouji/openwrt-passwall
-[submodule "package/passwall-packages"]
-	path = package/passwall-packages
-	url = https://github.com/xiaorouji/openwrt-passwall-packages.git
